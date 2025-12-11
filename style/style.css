@@ -12,3 +12,20 @@ header{
 body{
     background-color: rgb(250, 193, 125);
 }
+
+section{
+    background-color: aliceblue;
+    width: 350pt;
+    height: 350pt;
+    border-radius: 15px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.193);
+    padding: 15px;
+}
+
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    font-style: italic;
+    text-align: center;
+}
