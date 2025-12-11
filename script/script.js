@@ -3,7 +3,7 @@ function carregar(){
     var imagem = document.getElementById('foto');
     var data = new Date();
     var hora = data.getHours();
-    msg.innerHTML = `Agora São ${hora} horas`
+    msg.innerHTML = `Agora são ${hora} horas`
     if(hora >= 0 && hora < 12){
         imagem.src = 'imagens/imagem_manha-ofc.png'
         document.body.style.background = '#FFD470'
