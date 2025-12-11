@@ -10,7 +10,7 @@ header{
 }
 
 body{
-    background-color: rgb(250, 193, 125);
+    
 }
 
 section{
@@ -29,10 +29,13 @@ footer{
     text-align: center;
 }
 
-div#horario{
-
+div#msg{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding: 5px;
 }
 
 div#imagem{
-
+    text-align: center;
+    margin: 10px;
 }
