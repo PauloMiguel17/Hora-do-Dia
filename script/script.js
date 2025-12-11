@@ -6,11 +6,11 @@ function carregar(){
     var min = data.getMinutes();
     min = ('0' + min).slice(-2);
     msg.innerHTML = `Agora são ${hora}:${min}`
-    if(hora >= 0 && hora < 12){
+    if(hora >= 6 && hora < 12){
         imagem.src = 'imagens/imagem_manha-ofc.png'
-        document.body.style.background = '#FFD470'
+        document.body.style.background = '#d5cf71ff'
     }
-    if(hora >= 12 && hora < 18){
+    else if(hora >= 12 && hora < 18){
         imagem.src = 'imagens/imagem_tarde-ofc.png'
         document.body.style.background = '#70D3FF'
     }
