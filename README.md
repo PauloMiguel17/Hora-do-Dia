@@ -25,4 +25,4 @@ A aplicação verifica a hora do sistema do usuário e atualiza a interface auto
 
 ## 🚀 Como executar
 
-Basta clonar o repositório e abrir o arquivo `index.html` no seu navegador.
+Basta clonar o repositório e abrir o arquivo `index.html` no seu navegador ou usar o link do GitHub Pages https://paulomiguel17.github.io/Hora-do-Dia/.
