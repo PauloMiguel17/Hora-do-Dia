@@ -15,8 +15,7 @@ body{
 
 section{
     background-color: aliceblue;
-    width: 350pt;
-    height: 350pt;
+    width: 400pt;
     border-radius: 15px;
     margin: auto;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.193);
@@ -35,5 +34,5 @@ div#horario{
 }
 
 div#imagem{
-    
+
 }
