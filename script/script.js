@@ -3,7 +3,8 @@ function carregar(){
     var imagem = document.getElementById('foto');
     var data = new Date();
     var hora = data.getHours();
-    var min = data.getMinutes()
+    var min = data.getMinutes();
+    min = ('0' + min).slice(-2);
     msg.innerHTML = `Agora são ${hora}:${min}`
     if(hora >= 0 && hora < 12){
         imagem.src = 'imagens/imagem_manha-ofc.png'
