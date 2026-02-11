@@ -16,6 +16,7 @@ A aplicação verifica a hora do sistema do usuário e atualiza a interface auto
 * JavaScript (ES6)
 
 ## 📸 Screenshots
+
 **Manhã (06:00 - 12:00)**
 <img width="1073" height="574" alt="image" src="https://github.com/user-attachments/assets/f305ea7e-ab9f-41a1-bf65-e71f78a27093" />
 **Tarde (12:01 - 18:00)**
